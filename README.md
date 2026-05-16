@@ -1,5 +1,5 @@
 # My First Publish
 
-Este é o meu primeiro projeto publicado no GitHub.
+This is my first project published on GitHub.
 
-O objetivo é praticar Git, GitHub e organização de projetos.
+The goal is to practice Git, GitHub, and project organization.
